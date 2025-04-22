@@ -37,7 +37,6 @@
   },
   "dependencies": {
     "@types/express": "^5.0.1",
-    "@vscode/sqlite3": "^5.1.8-vscode",
     "argon2": "^0.41.1",
     "chalk": "^5.4.1",
     "connect-sqlite3": "^0.9.15",
@@ -53,6 +52,7 @@
     "nodemailer": "^6.10.1",
     "picocolors": "^1.1.1",
     "reflect-metadata": "^0.2.2",
+    "sqlite3": "^5.1.7",
     "typeorm": "0.3.22"
   }
 }
